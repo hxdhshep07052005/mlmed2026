@@ -1,6 +1,6 @@
 USTH Machine Learning in Medicine 2026
 ==================================
 
-* Your name here
-* Your ID here
+* Đặng Đình Hòa
+* 23BI14169
 * Your team ID here
